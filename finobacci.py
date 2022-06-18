@@ -1,4 +1,4 @@
- N+1 = N + N-1
+ #N+1 = N + N-1
  
 anterior = 0
 proxima = 1
